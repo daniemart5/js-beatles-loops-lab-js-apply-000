@@ -1,10 +1,5 @@
 function theBeatlesPlay(musicians, instruments) {
-    document.write(musicans + "play" + instruments);
-
-theBeatlesPlay("John Lennon", guitar)
-theBeatlesPlay("Ringo Star", drums)
-theBeatlesPlay("Paul Mccartney", bass)
-theBeatlesPlay("George Harrison", lead)
+    return (musicans + "play" + instruments);
 }
 
 function johnLennonFacts() {
